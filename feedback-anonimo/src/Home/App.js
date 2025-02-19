@@ -1,10 +1,11 @@
 import logo from './logo.svg';
 import './App.css';
-import logo1 from './grupo_lidon_logo.png';
+import logo1 from './Img/grupo_lidon_logo.png';
 
 
 
 function App() {
+
   return (
 <div className="App">
   <div className="menu-bar">
@@ -12,7 +13,7 @@ function App() {
     <div className='title-menu'>
       <p>Feedback-Anonimo</p>
     </div>
-    
+
   </div>
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
