@@ -8,7 +8,8 @@ function App() {
   return (
 <div className="App">
   <div className="menu-bar">
-    <img src={logo1} className="img-grupoLidon" alt="logoGrupoLidon" />
+    <img src={logo1} className="img-grupoLidon" alt="logoGrupoLidon"  />
+    
     <div className='title-menu'>
       <p>Feedback-Anonimo</p>
     </div>
